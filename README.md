@@ -5,6 +5,8 @@ print("Hello World")
 
     Output      Hello World
 
+    JavaScript is used in serviceNow in basic manner
+
 
 
 
